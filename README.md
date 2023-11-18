@@ -1,6 +1,7 @@
 # QR Code Generator
 
-This is a simple web-based QR code generator that allows users to input text or URLs and generate QR codes instantly.
+This is a simple web-based QR code generator that allows users to input text or URLs and generate QR codes instantly. check here 
+[Generate QR code](https://codewarnab.github.io/Qr-code-generator/)
 
 ## Features
 
