@@ -17,16 +17,5 @@ check here [Generate QR code](https://codewarnab.github.io/Qr-code-generator/)
 3. Click on the "Generate QR Code" button.
 4. The QR code corresponding to the input will be displayed.
 
-## Additional Features (Suggestions)
-
-Feel free to consider adding more features to enhance the QR code generator:
-
-- **Download Option:** Provide an option for users to download the generated QR code image.
-- **Customization:** Allow users to customize the size and color of the QR code.
-- **History:** Implement a feature to store the history of generated QR codes for users to revisit.
-- **Share Option:** Include options to share the generated QR code on social media or via email.
-- **QR Code Scanner:** Integrate a QR code scanner within the app to scan existing QR codes.
-
-## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or want to report issues, feel free to open an issue or submit a pull request.
